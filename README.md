@@ -1,18 +1,18 @@
 <h1 align="center">Hi👋 , I'm Adarsh Raj</h1>
-<h3 align="center">A passionate Automation Engineer from India</h3>
+<h3 align="center">A passionate Automation Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh0562&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh0562" /> </p>
 
 <p align="left"> <a href="https://twitter.com/__gupta__ji" target="_blank"><img src="https://img.shields.io/twitter/follow/__gupta__ji?logo=twitter&style=for-the-badge" alt="__gupta__ji" /></a> </p>
 
-- 🌱 I’m currently learning **Automation With Java**
+- 🌱 Exploring the world of **Automation**
 
 - 💻 I’m currently working on  **Tata Consultancy Services**
 
-- 💬 Ask me about **Automation,Java, Python, Django, HTML,CSS, BootStrap, PHP**
+- 💬 Ask me about **Selenium, POSTMAN API Testing, Cucumber, SAP MM, TestNG, Data Driven, Core Java, Git, Jenkins, Python, javaScript, SQL, HTML**
 
-- 📫 How to reach me **rajadarsh711.com**
+- 📫 How to reach me **rajadarsh711@gmail.com**
 
 - ⚡ Fun fact **I can talk openly on any topic**
 
