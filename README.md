@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 , I'm Adarsh Raj</h1>
-<h3 align="center">A passionate Automation Engineer</h3>
+<h3 align="center">A passionate Automation Engineer with 4 year of Exp.</h3>
 <img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh0562&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh0562" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 Exploring the world of **Automation**
 
-- 💻 I’m currently working on  **Tata Consultancy Services**
+- 💻 I’m currently working on  **Cognizant Technology Solutions**
 
 - 💬 Ask me about **Selenium, POSTMAN API Testing, Cucumber, SAP MM, TestNG, Data Driven, Core Java, Git, Jenkins, Python, javaScript, SQL, HTML**
 
